@@ -126,6 +126,7 @@ main a {
 main img.pequena{
   display: block;
   margin: auto;
+  height: auto;
  }
 
 div.video{
